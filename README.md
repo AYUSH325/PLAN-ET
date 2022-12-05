@@ -29,3 +29,4 @@ What's next for PLAN-ET
 In the future, we will be looking to add the functionality of saving the generated schedules to users’ profiles and exporting them in a format that is compatible with external calendar apps like Google Calendar. We would also add a backend database to save the user information so that they can login back to view their schedules in our app and make changes to it.
 
 Try it out: https://fastidious-figolla-0c1320.netlify.app/
+Devpost Link: https://devpost.com/software/plan-et
